@@ -11,7 +11,7 @@ Currently most of my repositories are for school work. But I plan to do more!
 Fun fact:
 - I don't like coffee
 - And I love energy drinks
-- I'm Night Owl
+- I'm a "Night Owl"
 - I love Rom-Com animes
 
 <!--
