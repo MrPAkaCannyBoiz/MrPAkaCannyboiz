@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+I'm Can, a software engineer student from Thailand
+I can build and design whatever in my mind
+My main tech is Angular(TS), Spring Boot(Java), .NET(C#), and PostgreSQL. I can also do a React and Blazor if needed :D. 
+Currently most of my repositories are for school work. But I plan to do more!
+
+Fun fact:
+- I don't like coffee
+- And I love energy drinks
+- I'm Night Owl
+- I love Rom-Com animes
+
 <!--
 **MrPAkaCannyBoiz/MrPAkaCannyboiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
