@@ -4,7 +4,7 @@ I'm Can, a software engineer student from Thailand
 
 I can build and design whatever in my mind
 
-My main tech is Angular(TS), Spring Boot(Java), .NET(C#), and PostgreSQL. I can also do a React and Blazor if needed :D. 
+My main tech is **Angular**(TS), **Spring Boot**(Java), **.NET**(C#), and **PostgreSQL**. I can also do a React and Blazor if needed :D. 
 
 Currently most of my repositories are for school work. But I plan to do more!
 
