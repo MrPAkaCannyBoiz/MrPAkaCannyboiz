@@ -8,6 +8,8 @@ My main tech is **Angular**(TS), **Spring Boot**(Java), **.NET**(C#), and **Post
 
 Currently most of my repositories are for school work. But I plan to do more!
 
+I'm currently specializing in Kafka and Devops with WLS.
+
 Fun fact:
 - I don't like coffee
 - And I love energy drinks
