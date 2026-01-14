@@ -14,7 +14,8 @@ Fun fact:
 - I don't like coffee
 - And I love energy drinks
 - I'm a "Night Owl"
-- I love Rom-Com animes
+- I love playing "Gacha" games
+- Airsoft is my favorite sport
 
 <!--
 **MrPAkaCannyBoiz/MrPAkaCannyboiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
