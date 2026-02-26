@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Can aka "Kanku", a software engineer student from Thailand
+I'm Can aka "Kanku", a software engineer student from Thailand (Currently living in Denmark)
 
 I can build and design whatever in my mind
 
