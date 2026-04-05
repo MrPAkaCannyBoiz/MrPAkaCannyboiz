@@ -8,7 +8,9 @@ My main tech is **React**(TS), **Spring Boot**(Java), **.NET**(C#), and **Postgr
 
 Currently most of my repositories are for school work. But I plan to do more!
 
-I'm currently specializing in Kafka and Devops with WLS.
+I'm currently specializing in Devops and IoT. 
+
+I also keep developing the Personal project and my 4th-semester project, which will be around on **Machine Learning and IoT**
 
 Fun fact:
 - I don't like coffee
