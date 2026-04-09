@@ -16,7 +16,7 @@ Fun fact:
 - I don't like coffee
 - And I love energy drinks
 - I'm a "Night Owl"
-- I love playing "Gacha" games
+- I love playing video games (Currently I mostly play mobile game)
 - Airsoft is my favorite sport
 
 <!--
