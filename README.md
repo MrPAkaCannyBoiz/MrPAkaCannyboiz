@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Can aka "Kanku", a software engineer student from Thailand (Currently living in Denmark)
+I'm Phongsathorn, or you just called me Can (my nickname), a software engineer student from Thailand (Currently living in Denmark)
 
 I can build and design whatever in my mind
 
