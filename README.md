@@ -4,7 +4,7 @@ I'm Phongsathorn, or you just called me Can (my nickname), a software engineer s
 
 I can build and design whatever in my mind
 
-My main tech is **React**(TS), **Spring Boot**(Java), **.NET**(C#), and **PostgreSQL**. I can also do a Angular and Blazor if needed :D. 
+My main tech is **React**(TS), **.NET**(C#), and **PostgreSQL**. I can also do a Java(Spring Boot), Angular, and Blazor aswell :D. 
 
 Currently most of my repositories are for school work. But I plan to do more!
 
