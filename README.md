@@ -24,7 +24,7 @@ My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am de
 - 🦉💻 I am a massive "Night Owl" (which is when my best code is written).
 - 🎮 Mobile gaming and Airsoft are my go-to ways to disconnect from the screen.
 
-📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/phongsathorn-sreewilai-515703281/) | 🌐 **Portfolio:** [cannyboiz.com](https://cannyboiz.com)
+📫 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/phongsathorn-sreewilai-515703281/) | 🌐 **Portfolio:** [cannyboiz.com](https://www.cannyboiz.com/)
 <!--
 **MrPAkaCannyBoiz/MrPAkaCannyboiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
