@@ -17,6 +17,7 @@ My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am de
 *   Acting as Product Owner and Core Developer in a 13-person SCRUM team, building a **Machine Learning & IoT distributed system** to predict online chess performance using physical telemetry.
 *   Continuously modernizing **ResPawn**, a distributed e-commerce platform, by implementing RabbitMQ and containerizing the architecture.
 *   Expanding my TypeScript skills by building full-stack dashboards with Next.js and NestJS.
+*   Learning Golang
 
 ### ⚡ Fun Facts about me
 - 🚫☕ I actually don't like coffee...
