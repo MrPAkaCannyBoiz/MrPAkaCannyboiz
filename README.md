@@ -2,7 +2,7 @@
 
 I'm a Software Engineering student from Thailand, currently based in Denmark. 
 
-I don't just write code; I love architecting complex, event-driven systems and taking them from concept to cloud deployment. I specialize in full-stack development, platform engineering, machine learning and distributed systems. 
+I don't just write code; I love architecting complex, event-driven systems and taking them from concept to cloud deployment. I specialize in DevOps & Cloud, full-stack development, platform engineering, and machine learning.
 
 ### 🚀 What I do
 My core stack revolves around the Microsoft, JS/TS, and Java ecosystems. I am deeply focused on building scalable backend microservices, seamless frontends, and managing the DevOps pipelines that keep them running. 
